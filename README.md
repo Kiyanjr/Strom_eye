@@ -1,16 +1,32 @@
-# strom_eye
+# 🌩️ Strom Eye
 
-A new Flutter project.
+Strom Eye is a simple yet elegant Flutter weather app that shows real-time weather updates and forecasts in a beautiful, minimal interface.  
+It’s built as a personal learning project to improve my Flutter skills and UI design sense.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌦️ Current weather with temperature, humidity, and condition icons  
+- 🕒 5-day forecast display  
+- 📍 Search weather by city  
+- 🎨 Modern and responsive design  
+- ⚡ Smooth animations and transitions  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Up coming Features: background animation, better desgin and ...
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Home Screen | Forecast Screen |
+|--------------|----------------|
+| ![Home Screen](images/screenshot1.png) | ![Forecast Screen](images/screenshot2.png) |
+
+---
+
+## 🧰 Tech Stack
+
+- Framework: Flutter  
+- Language: Dart  
+- API: OpenWeatherMap (REST API)  
+- State Management: Provider (or similar)
